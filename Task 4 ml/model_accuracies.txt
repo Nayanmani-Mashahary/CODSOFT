@@ -1,0 +1,3 @@
+NaiveBayes: 0.9641
+LogReg: 0.9749
+SVM: 0.9865
